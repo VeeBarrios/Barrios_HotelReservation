@@ -53,8 +53,6 @@ public class barrios_562749 {
                     System.out.println("Room already occupied.");
                 }
             }
-
-               
                     else if (choice == 3) {
                         System.out.print("Enter floor (1-7): ");
                         int floor = v.nextInt() - 1;
